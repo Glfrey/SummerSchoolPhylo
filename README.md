@@ -8,4 +8,5 @@ Links for the practical
 1. [Clustal omega](https://www.ebi.ac.uk/jdispatcher/msa/clustalo)
 2. [Clustal simple phylogeny](https://www.ebi.ac.uk/jdispatcher/phylogeny/simple_phylogeny)
 3. [NCBI taxonomy](https://www.ncbi.nlm.nih.gov/taxonomy)
-4. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) (Bonus activity)
+4. [Alternate phylogeny programs](https://www.phylogeny.fr)
+5. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi) (Bonus activity)
